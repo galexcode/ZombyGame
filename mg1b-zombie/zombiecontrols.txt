@@ -1,0 +1,6 @@
+Walk: W/A/S/D
+Shoot: Mb1
+Spawn Zombies: E
+Place C4: Q
+Knife: V
+Toggle Flashlight: F
